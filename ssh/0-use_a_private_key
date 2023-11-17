@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Server details
-server_ip="8.8.8.8"
+server_ip="54.90.145."
 user="ubuntu"
 
 # SSH command with private key
