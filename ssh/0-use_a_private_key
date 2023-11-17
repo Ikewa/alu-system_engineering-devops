@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Server details
 server_ip="8.8.8.8"
 user="ubuntu"
