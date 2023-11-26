@@ -13,7 +13,7 @@ server_config=\
 frontend  ikewa_frontend
         bind *:80
         mode http
-        default_backend skomaiya_backend
+        default_backend ikewa_backend
 backend ikewa_backend
         balance roundrobin
         server 5887-web-01 54.90.145.6:80 check
